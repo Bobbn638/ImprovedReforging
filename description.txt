@@ -1,0 +1,13 @@
+This mod aims to improve the reforge system in two major ways.
+1. Giving the option to choose exactly which reforge you desire, but at an increased cost. This removes randomness while the increased cost keeps it balanced.
+2. Make the mediocre reforges stand out so they are not outclassed in every single way while still being weaker than Legendary, Unreal, etc. on average.
+
+If there is any part of this mod you don't like, such as the reforge rework, you can disable it in the config. You can also change the price of reforging in the config.
+
+Upon pressing the reforge button, you will be greeted with a large menu with an item slot in the top left corner. Putting an item here will create a scollable list of every prefix that item can have. The price of each prefix is, roughly speaking, based on how good it is minus how good the prefix you currently have is. If you can't afford the prefix you want, you can get a lesser one and come back later to get the one you want, and you will end up paying the same amount of money in total.
+
+I did not try to make every bad prefix stand out because there are simply too many bad prefixes. However, I hope that at least some of them are more interesting. Many are quite good for thier price, so they are useful if you are strapped for cash. It is worth noting that I changed how prefixes calculate thier value to give more weight to damage, use time, and crit, and give less weight to things like knockback.
+
+I'd imagine that my changes my not be very balanced since they have only been tested by me, so if you have feedback to give, please do!
+
+I do plan on updating this mod a bit in the future. There are a few minor things to add, such as a scroll bar to the reforge menu. I may also consider adjusting prefixes based on feedback and testing and maybe adding some new unique prefixes.

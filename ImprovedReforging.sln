@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImprovedReforging", "ImprovedReforging.csproj", "{43DE916D-E729-4C7A-9CD5-781F4E4526EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43DE916D-E729-4C7A-9CD5-781F4E4526EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43DE916D-E729-4C7A-9CD5-781F4E4526EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43DE916D-E729-4C7A-9CD5-781F4E4526EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43DE916D-E729-4C7A-9CD5-781F4E4526EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C44B7987-556C-4FFC-B501-57BE7D2ADA4F}
+	EndGlobalSection
+EndGlobal

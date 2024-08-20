@@ -1,0 +1,40 @@
+Configs: {
+	ReforgeConfig: {
+		DisplayName: Reforge Config
+		Headers.Items: Items Header
+
+		ExampleWingsToggle: {
+			Label: Example Wings Toggle
+			Tooltip: ""
+		}
+
+		WeaponWithGrowingDamageToggle: {
+			Label: Weapon With Growing Damage Toggle
+			Tooltip: ""
+		}
+	}
+
+	ImprovedReforgingConfig: {
+		DisplayName: Improved Reforging Config
+
+		GoblinTinkererRework: {
+			Label: Goblin Tinkerer Rework
+			Tooltip: ""
+		}
+
+		PrefixRework: {
+			Label: Prefix Rework
+			Tooltip: ""
+		}
+
+		ReforgePriceMultiplier: {
+			Label: Reforge Price Multiplier
+			Tooltip: ""
+		}
+
+		ReforgePricePercentage: {
+			Label: Reforge Price Percentage
+			Tooltip: ""
+		}
+	}
+}
